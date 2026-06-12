@@ -1,2 +1,4 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20163063
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121528
+hysteria2://miaoge110@5.45.100.100:51511/?insecure=1&sni=www.bing.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20676121
+hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564405
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755298
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20862596
