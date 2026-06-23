@@ -1,6 +1,6 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543523
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981326
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20108761
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849832
-hysteria2://MySecurePassword123@157.230.222.46:8443/?sni=wuhantravel.duckdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20871706
-hysteria2://MySecurePassword123@157.230.222.46:8443?sni=wuhantravel.duckdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596483
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20728728
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20288918
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20599535
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260482
+hysteria2://MySecurePassword123@157.230.222.46:8443/?sni=wuhantravel.duckdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379362
+hysteria2://MySecurePassword123@157.230.222.46:8443?sni=wuhantravel.duckdns.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317637
