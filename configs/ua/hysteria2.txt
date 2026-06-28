@@ -1,3 +1,9 @@
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843364
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320108
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20416397
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20820445
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20157178
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20242196
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310624
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20716494
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168639
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20713031
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532389
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168884
